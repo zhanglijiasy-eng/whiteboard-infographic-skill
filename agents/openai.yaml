@@ -1,0 +1,4 @@
+interface:
+  display_name: "Whiteboard Infographic"
+  short_description: "Create black-white-red hand-drawn teaching graphics"
+  default_prompt: "Use $whiteboard-infographic to turn this Chinese text into a black-white-red hand-drawn whiteboard infographic."
